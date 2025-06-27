@@ -67,7 +67,7 @@ with st.sidebar:
     - **Social** 👥
     """)
     st.divider()
-    st.caption("Responde honestamente a todas las preguntas para obtener un resultado preciso.")
+    st.caption("Responde las preguntas para obtener un resultado preciso.")
 
 # --- Título y progreso ---
 st.title("🧭 ¿Definiendo tu futuro profesional?")
