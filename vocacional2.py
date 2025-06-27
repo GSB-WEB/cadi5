@@ -70,7 +70,7 @@ with st.sidebar:
     st.caption("Responde las preguntas para obtener un resultado preciso.")
 
 # --- Título y progreso ---
-st.title("🧭 ¿Definiendo tu futuro profesional?")
+st.title("🧭 ¿Quieres chamba?")
 st.markdown("Considera que este cuestionario es solo de ayuda. No olvides consultar a los experos profesionales")
 
 # Barra de progreso mejorada
